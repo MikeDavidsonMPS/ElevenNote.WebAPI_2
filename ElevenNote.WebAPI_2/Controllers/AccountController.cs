@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using ElevenNote.WebAPI_2.Models;
 using ElevenNote.WebAPI_2.Providers;
 using ElevenNote.WebAPI_2.Results;
+using ElevenNote.Data;
 
 namespace ElevenNote.WebAPI_2.Controllers
 {
