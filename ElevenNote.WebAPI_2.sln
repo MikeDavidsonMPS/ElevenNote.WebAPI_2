@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebAPI_2", "ElevenNote.WebAPI_2\ElevenNote.WebAPI_2.csproj", "{EEE533CD-B8AA-4DE8-BF4D-FAB516A0156A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNote.Data\ElevenNote.Data.csproj", "{B60BAFB0-9C47-4939-988B-4A76549C646F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.Services\ElevenNote.Services.csproj", "{2C4C079D-A584-4434-9585-ED5200FC1D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNote.Models\ElevenNote.Models.csproj", "{E320BD51-4967-4D48-BBEF-257BEF0145F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEE533CD-B8AA-4DE8-BF4D-FAB516A0156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE533CD-B8AA-4DE8-BF4D-FAB516A0156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE533CD-B8AA-4DE8-BF4D-FAB516A0156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE533CD-B8AA-4DE8-BF4D-FAB516A0156A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60BAFB0-9C47-4939-988B-4A76549C646F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60BAFB0-9C47-4939-988B-4A76549C646F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60BAFB0-9C47-4939-988B-4A76549C646F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60BAFB0-9C47-4939-988B-4A76549C646F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4C079D-A584-4434-9585-ED5200FC1D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4C079D-A584-4434-9585-ED5200FC1D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4C079D-A584-4434-9585-ED5200FC1D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4C079D-A584-4434-9585-ED5200FC1D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E320BD51-4967-4D48-BBEF-257BEF0145F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E320BD51-4967-4D48-BBEF-257BEF0145F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E320BD51-4967-4D48-BBEF-257BEF0145F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E320BD51-4967-4D48-BBEF-257BEF0145F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC66791-5E07-4E26-864A-205733600C5C}
+	EndGlobalSection
+EndGlobal
